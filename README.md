@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Numeraire projects.
 - 📫 How to reach me: Via Github
 
-I am currently learning basic C skills at USAFA. You can view some of my work in C in my repositories under my PEXs.
+I am currently learning basic C skills at USAFA. You can view some of my work in C in my PEX repositories.
 
 I also took an intro level course in Python and am trying to learn various data cleaning package such as Pandas on my own.
 
